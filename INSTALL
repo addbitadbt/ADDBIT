@@ -1,0 +1,9 @@
+Building ADDBIT
+
+See doc/readme-qt.rst for instructions on building ADDBIT QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ADDBIT.
+
+See doc/build-*.txt for instructions on building addbitd,
+the intended-for-services, no-graphical-interface, reference
+implementation of ADDBIT.
